@@ -1,0 +1,7 @@
+# Binaries for programs and plugins
+donut
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
